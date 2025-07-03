@@ -61,7 +61,6 @@ Class-Weighted
 SMOTE				
 SMOTE + Tuned				
 
-(👉 You can fill in your actual performance numbers here.)
 
 ⸻
 
