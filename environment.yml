@@ -1,0 +1,17 @@
+# create the environment
+# conda env create -f environment.yml
+name: insurance-fraud
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn=1.4.2
+  - imbalanced-learn=0.12.0
+  - xgboost
+  - shap
+  - matplotlib
+  - seaborn
+  - jupyterlab
